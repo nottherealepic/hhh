@@ -138,7 +138,7 @@ The bot is configured via environment variables.
 | `/epicgiveaway`   | Starts a new giveaway. (Admin Only)                                | `title`, `sponsor`, `duration` (minutes), `item`, `winners` (count), `channel`                         |
 | `/view`           | Views the first 20 rows from a database table. (Admin Only)        | `tablename` (e.g., `giveaways` or `participants`)                                                      |
 | `/dt`             | Lists all public tables in the database. (Admin Only)              | *None*                                                                                                 |
-| `/senddummy`      | Posts a placeholder embed to bootstrap the uptime panel.           | *None*                                                                                                 |
+| `/get_msg_id`      | Sends a dummy message to the `uptime_status_channel_id` and returns the message ID.          | *None*                                                                                                 |
 
 **Example Giveaway:**
 `/epicgiveaway title:"Nitro August" sponsor:"@user" duration:60 item:"Discord Nitro (1 Month)" winners:2 channel:#giveaways`
