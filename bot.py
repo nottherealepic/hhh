@@ -1,3 +1,13 @@
+# ----------------------------------------------------------------------------------
+# Discord Giveaway Bot - A Ready-to-Host Template
+#
+# Author:       NotTheRealEpic
+# Version:      1.0.0
+# Source:       https://github.com/NotTheRealEpic/GiveawayBot
+# ----------------------------------------------------------------------------------
+
+
+
 import sys, types
 sys.modules['audioop'] = types.SimpleNamespace()
 
@@ -10,6 +20,11 @@ import discord
 from discord.ext import commands, tasks
 from discord import app_commands
 from datetime import datetime, timedelta, timezone
+
+print("\033[96m====================================================\033[0m")
+print("\033[92m🎉 Discord Giveaway Bot | Created by: NotTheRealEpic\033[0m")
+print("\033[97m   Starting up... Please wait.\033[0m")
+print("\033[96m====================================================\033[0m")
 
 SERVER_NAME       = os.getenv("SERVER_NAME", "MyServer")
 TOKEN             = os.getenv("BOT_TOKEN")
