@@ -10,7 +10,7 @@ A feature-rich, production-friendly Discord giveaway bot built with **Python 3.1
 
 > **[RECOMMENDED]**
 > *Replace this text with a GIF showcasing the bot's commands in action, like `/epicgiveaway` and the winner announcement.*
-> ![Bot Showcase GIF](https://via.placeholder.com/800x400.png?text=Bot+Showcase+GIF+Here)
+> ![Bot Showcase GIF](https://i.ibb.co/vxT603mq/Sequence01-1-ezgif-com-video-to-gif-converter.gif)
 
 ---
 
