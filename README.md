@@ -9,7 +9,6 @@
 A feature-rich, production-friendly Discord giveaway bot built with **Python 3.13**, **discord.py**, and **PostgreSQL**. Designed to run out-of-the-box on **Render** with minimal setup.
 
 > **[RECOMMENDED]**
-> *Replace this text with a GIF showcasing the bot's commands in action, like `/epicgiveaway` and the winner announcement.*
 > ![Bot Showcase GIF](https://i.ibb.co/vxT603mq/Sequence01-1-ezgif-com-video-to-gif-converter.gif)
 
 ---
@@ -76,8 +75,8 @@ Follow these steps to get a local copy up and running for development or to depl
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/discord-giveaway-bot.git
-    cd discord-giveaway-bot
+    git clone https://github.com/adarshpothan/nre-site.git
+    cd nre-site
     ```
 2.  **Create and activate a virtual environment:**
     ```bash
