@@ -75,8 +75,8 @@ Follow these steps to get a local copy up and running for development or to depl
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/adarshpothan/nre-site.git
-    cd nre-site
+    git clone https://github.com/adarshpothan/epic-giveaway-discord-bot.git
+    cd epic-giveaway-discord-bot
     ```
 2.  **Create and activate a virtual environment:**
     ```bash
