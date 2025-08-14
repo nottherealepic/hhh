@@ -1,9 +1,9 @@
 # ----------------------------------------------------------------------------------
 # Discord Giveaway Bot - A Ready-to-Host Template
 #
-# Author:       NotTheRealEpic
+# Author:       Adarsh Pothan
 # Version:      1.0.0
-# Source:       https://github.com/NotTheRealEpic/GiveawayBot
+# Source:       https://github.com/adarshpothan/epic-giveaway-discord-bot
 # ----------------------------------------------------------------------------------
 
 
@@ -22,7 +22,7 @@ from discord import app_commands
 from datetime import datetime, timedelta, timezone
 
 print("\033[96m====================================================\033[0m")
-print("\033[92m🎉 Discord Giveaway Bot | Created by: NotTheRealEpic\033[0m")
+print("\033[92m🎉 Discord Giveaway Bot | Created by: Adarsh Pothan\033[0m")
 print("\033[97m   Starting up... Please wait.\033[0m")
 print("\033[96m====================================================\033[0m")
 
