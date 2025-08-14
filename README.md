@@ -8,7 +8,6 @@
 
 A feature-rich, production-friendly Discord giveaway bot built with **Python 3.13**, **discord.py**, and **PostgreSQL**. Designed to run out-of-the-box on **Render** with minimal setup.
 
-> **[RECOMMENDED]**
 > ![Bot Showcase GIF](https://i.ibb.co/vxT603mq/Sequence01-1-ezgif-com-video-to-gif-converter.gif)
 
 ---
