@@ -1,6 +1,6 @@
 # Discord Giveaway Bot — Render-Ready Template
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YOUR_USERNAME/discord-giveaway-bot)  
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/adarshpothan/epic-giveaway-discord-bot)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Python 3.13.4](https://img.shields.io/badge/python-3.13.4-3776AB.svg?logo=python)](https://www.python.org/)  
 [![discord.py](https://img.shields.io/badge/discord.py-v2.3.2-7289DA.svg?logo=discord&logoColor=white)](https://github.com/Rapptz/discord.py)  
