@@ -1,10 +1,11 @@
-# 🎉 Discord Giveaway Bot — Render-Ready Template
+# Discord Giveaway Bot — Render-Ready Template
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/register)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.13.4](https://img.shields.io/badge/python-3.13.4-3776AB.svg?logo=python)](https://www.python.org/)
-[![discord.py](https://img.shields.io/badge/discord.py-v2.3.2-7289DA.svg?logo=discord&logoColor=white)](https://github.com/Rapptz/discord.py)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/YOUR_USERNAME/discord-giveaway-bot)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![Python 3.13.4](https://img.shields.io/badge/python-3.13.4-3776AB.svg?logo=python)](https://www.python.org/)  
+[![discord.py](https://img.shields.io/badge/discord.py-v2.3.2-7289DA.svg?logo=discord&logoColor=white)](https://github.com/Rapptz/discord.py)  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791.svg?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
 
 A feature-rich, production-friendly Discord giveaway bot built with **Python 3.13**, **discord.py**, and **PostgreSQL**. Designed to run out-of-the-box on **Render** with minimal setup.
 
@@ -145,7 +146,7 @@ The bot is configured via environment variables.
 
 ### Setting Up the Uptime Panel (Optional)
 
-1.  In your desired status channel, run the `/senddummy` command.
+1.  In your desired status channel, run the `/get_msg_id` command.
 2.  The bot will post a placeholder message and reply with its **Message ID**.
 3.  Go to your Render environment variables:
     *   Set `STATUS_CHANNEL_ID` to the ID of the channel you used.
@@ -205,6 +206,21 @@ Contributions are what make the open-source community such an amazing place to l
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📜 License
+---
 
-Distributed under the MIT License. See `LICENSE` for more information.
+## 📜 License & Philosophy
+
+This project was built to empower individuals and communities. The goal is to provide a powerful, ready-to-host giveaway bot that anyone can deploy with minimal effort, using environment variables for all customization so you never have to touch the code.
+
+To support this goal, this project is released under the permissive **MIT License**.
+
+In simple terms, this means you are free to:
+
+*   ✅ **Use:** Run this bot for your personal or community servers, free of charge.
+*   ✅ **Modify:** Change the code to add your own features or tweaks.
+*   ✅ **Distribute:** Share your modified version with others.
+*   ✅ **Use Commercially:** You can even use this bot as part of a commercial project.
+
+The only real condition is that you must include the original copyright and license notice in any copy or substantial portion of the software. It's provided "as is" without warranty.
+
+For the full legal text, please see the [LICENSE](LICENSE) file.
